@@ -3,14 +3,22 @@ The purpose of the project was to develop the model to predict the loan default 
 the bank to the borrowewrs. 
 The dataset on credit defaults was taken from the book: Machine Learning with R: Expert techniques for predictive modeling, 3rd Edition, 
 The correlatio analysis and Modelling Amalysis is based on the coding practices learned 
-during from Business Sceince university R-Track. 
+ from Business Science University R-Track. 
 
-1. Correlation analysis: 
-In The first part of the analysis the data dicovery as a well as the correlation between predictors and the target was 
-calculated to determine whether the features could be used to predict the probability 
-of the defualt of the bank customers. 
-As a result the feautures that have both considerable positive or negative correlation with defautlt metric 
+Part 1. Correlation analysis: 
+In The first part of the analysis the data discovery as a well as the correlation between predictors and the target was 
+performed to determine whether the given features could be usefull in predicting the probability 
+of the default of the bank customers. 
+As a result the feautures that have both considerable positive and negative correlation with defautlt metric 
 were detected: 
 
 ![](images/correlation.png)
 
+
+Part2. Modelling the loan default probability 
+In the second part of the analysis the best models were selected to that has the best predicting 
+power to detect the potenially defaulting loans. The h2o Automatic Machine learning was applied to 
+pick the winning model. The leaderdashboard is presented below to disply the perfomance metrcis of 
+of the models used: 
+
+![](images/Best_Model_png)
