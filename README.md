@@ -11,5 +11,6 @@ calculated to determine whether the features could be used to predict the probab
 of the defualt of the bank customers. 
 As a result the feautures that have both considerable positive or negative correlation with defautlt metric 
 were detected: 
+
 ![](images/Corr_Analysis)
 
