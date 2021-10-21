@@ -13,4 +13,3 @@ As a result the feautures that have both considerable positive or negative corre
 were detected: 
 ![](images/Corr_Analysis)
 
-![](images/Best_Model_png)
