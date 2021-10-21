@@ -12,5 +12,5 @@ of the defualt of the bank customers.
 As a result the feautures that have both considerable positive or negative correlation with defautlt metric 
 were detected: 
 
-![](images/Corr_Analysis)
+![](images/correlation.png)
 
