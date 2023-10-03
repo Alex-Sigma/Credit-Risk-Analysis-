@@ -7,7 +7,7 @@ The correlatio analysis and Modelling Analysis is based on the coding practices 
  from Business Science University R-Track. 
 
 ## Part 1. Correlation analysis 
-In The first part of the analysis the data discovery as a well as the correlation between predictors and the target was 
+In the first part of the analysis the data discovery as a well as the correlation between predictors and the target was 
 performed to determine whether the given features could be usefull in predicting the probability 
 of the default of the bank customers. 
 As a result the features that have both considerable positive and negative correlation with defautlt metric 
